@@ -1,6 +1,8 @@
 #include<stdio.h> 
 
 int main(){
-     printf("Hello world it's me .. \n");
+     printf("Name: Nurul Hasan\n");
+     printf("ID: B423036\n");
+     printf("Hello world..\n");
      return 0;
 }
