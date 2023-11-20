@@ -1,6 +1,6 @@
 /*
-Name: Aditya Kumar pattanayakl
-ID  : B423003
+Name: Saswat Parasar Behera
+ID  : B122103
 This Code Prints Hello World in C :D
 */
 
