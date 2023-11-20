@@ -7,6 +7,6 @@ This Code Prints Hello World in C :D
 #include <stdio.h>
 
 int main(){
-	printf("Hello World!\n");
+	printf("Hello World!");
 	return 0;
 }
