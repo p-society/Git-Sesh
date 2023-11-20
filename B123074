@@ -1,0 +1,8 @@
+#include<stdio.h>
+/*Name : Mrutunjaya Panda
+ID : B123074
+This code Prints Hello World in c*/
+int main(){
+    printf("Hello World\n");
+    return 0;
+}
