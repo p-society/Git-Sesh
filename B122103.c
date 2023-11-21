@@ -8,5 +8,7 @@ This Code Prints Hello World in C :D
 
 int main(){
 	printf("Hello World!\n");
+	printf("Hello World!\n");
+	printf("Hello World!\n");
 	return 0;
 }
