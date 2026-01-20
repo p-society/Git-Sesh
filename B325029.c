@@ -1,6 +1,6 @@
 /*
 Name: Pratyush Kumar Sio
-ID  : B323029
+ID  : B325029
 This Code checks a neon number.
 */
 #include <stdio.h>
