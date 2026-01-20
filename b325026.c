@@ -1,5 +1,5 @@
 /*
-Name: Prakash kumr
+Name: Prakash Kumar
 ID  : B325026
 This Code Prints Hello World in C :D
 */
